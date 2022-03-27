@@ -1,4 +1,9 @@
-.detail {
+.detail-title {
+    margin: 40px;
+    font-size: 30px;
+}
+
+.detail-paragraph {
     margin: 40px;
     font-size: 17px;
 }
