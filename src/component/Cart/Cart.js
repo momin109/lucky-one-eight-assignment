@@ -10,7 +10,7 @@ const Cart = (props) => {
             <h4>Oder summary</h4>
             <h3>{getRandom?.name}</h3>
             {
-                cart.map(product => <h3>Name : <small>{product.name}</small></h3>)
+                cart.map(product => <h3>Name : <small className='product-name'>{product.name}</small></h3>)
             }
 
             <div>

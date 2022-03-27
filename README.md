@@ -1,5 +1,5 @@
-# Netlify live website link: https://snazzy-cobbler-ed4a87.netlify.app/
-https://snazzy-cobbler-ed4a87.netlify.app/
+# Device Arena: https://snazzy-cobbler-ed4a87.netlify.app/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

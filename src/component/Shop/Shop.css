@@ -16,7 +16,7 @@
 }
 
 @media screen and (max-width: 740px) {
-    .product-container {
+    .shop-container {
         grid-template-columns: repeat(1, 1fr)
     }
 }
