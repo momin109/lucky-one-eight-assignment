@@ -6,6 +6,7 @@ const Product = (props) => {
 
 
     return (
+
         <div className='product'>
             <img src={img} alt="" />
             <div className='product-info'>

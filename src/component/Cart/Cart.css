@@ -1,0 +1,13 @@
+.cart {
+    padding: 10px;
+}
+
+.btn-random {
+    padding: 10px 19px;
+    border-radius: 8px;
+    border: none;
+}
+
+.btn-random:hover {
+    background-color: blueviolet;
+}
