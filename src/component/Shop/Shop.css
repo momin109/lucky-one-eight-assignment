@@ -12,3 +12,11 @@
 .cart-container {
     background-color: blanchedalmond
 }
+
+@media screen and (max-width: 740px) {
+    .product-container {
+        grid-template-columns: repeat(1, 1fr)
+    }
+}
+
+;
