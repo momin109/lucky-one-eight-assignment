@@ -15,8 +15,8 @@
     background-color: blanchedalmond
 }
 
-@media screen and (max-width: 740px) {
-    .shop-container {
+@media screen and (max-width: 592px) {
+    .product-container {
         grid-template-columns: repeat(1, 1fr)
     }
 }
